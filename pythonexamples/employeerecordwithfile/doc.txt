@@ -1,0 +1,3 @@
+{'id': 4, 'name': 'Gursimar', 'mno': '8877665544', 'add': 'Ludhiana'}
+{'id': 5, 'name': 'Kunika', 'mno': 8877665544, 'add': 'Ludhiana'}
+{'id': 2, 'name': 'Amar', 'mno': '8833445566', 'add': 'Ludhiana'}

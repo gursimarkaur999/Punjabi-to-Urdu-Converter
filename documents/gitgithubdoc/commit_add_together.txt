@@ -1,0 +1,61 @@
+
+ACER@Sehaj MINGW64 /e/temp (master)
+$ git commit -a -m "checking commit -a option"
+On branch master
+Your branch is ahead of 'origin/master' by 1 commit.
+  (use "git push" to publish your local commits)
+
+Untracked files:
+        fcg.rtf
+
+nothing added to commit but untracked files present
+
+ACER@Sehaj MINGW64 /e/temp (master)
+$ git status
+On branch master
+Your branch is ahead of 'origin/master' by 1 commit.
+  (use "git push" to publish your local commits)
+
+Untracked files:
+  (use "git add <file>..." to include in what will be committed)
+        fcg.rtf
+
+nothing added to commit but untracked files present (use "git add" to track)
+
+ACER@Sehaj MINGW64 /e/temp (master)
+$ git add .
+
+ACER@Sehaj MINGW64 /e/temp (master)
+$ git commit -m "new word file"
+[master 2937307] new word file
+ 1 file changed, 200 insertions(+)
+ create mode 100644 fcg.rtf
+
+ACER@Sehaj MINGW64 /e/temp (master)
+$ git status
+On branch master
+Your branch is ahead of 'origin/master' by 2 commits.
+  (use "git push" to publish your local commits)
+
+Changes not staged for commit:
+  (use "git add <file>..." to update what will be committed)
+  (use "git restore <file>..." to discard changes in working directory)
+        modified:   fcg.rtf
+
+no changes added to commit (use "git add" and/or "git commit -a")
+
+ACER@Sehaj MINGW64 /e/temp (master)
+$ git commit -a -m "checking commit -a option"
+[master 5a5f321] checking commit -a option
+ 1 file changed, 6 insertions(+), 6 deletions(-)
+
+ACER@Sehaj MINGW64 /e/temp (master)
+$ git status
+On branch master
+Your branch is ahead of 'origin/master' by 3 commits.
+  (use "git push" to publish your local commits)
+
+nothing to commit, working tree clean
+
+ACER@Sehaj MINGW64 /e/temp (master)
+$

@@ -1,0 +1,5 @@
+a=float(input("Enter any four numbers \n First number is : "))
+b=float(input("Second number is : "))
+c=float(input("Third number is : "))
+d=float(input("Fourth number is : "))
+e=float(input("Fifth number is : "))
