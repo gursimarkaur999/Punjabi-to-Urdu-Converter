@@ -1,3 +1,0 @@
-{'Name': 'Gursimar Kaur', 'Mob': '9878717057', 'Email': 'gur@gmail.com', 'Pass': 'gur'}
-{'Name': 'Kunika', 'Mob': '8767876435', 'Email': 'kunika@gmail.com', 'Pass': 'kunika'}
-{'Name': 's', 'Mob': '9876543210', 'Email': 's@gmail.com', 'Pass': 'sa'}

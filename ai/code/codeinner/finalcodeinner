@@ -1,4 +1,0 @@
-# import code.code2
-from ..code2 import Code2
-
-f = Code2()

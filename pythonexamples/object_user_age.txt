@@ -1,3 +1,0 @@
-{'sr_no': 1, 'name': 'Gur', 'age': 19}
-{'sr_no': 2, 'name': 'sam', 'age': 19}
-{'sr_no': 3, 'name': 'Kunika', 'age': 20}
